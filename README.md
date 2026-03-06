@@ -349,6 +349,45 @@ A: The conductor makes complex routing decisions and manages multi-agent pipelin
 
 ---
 
+## Roadmap
+
+<table>
+<tr>
+<td><b>v1.0</b> Foundation</td>
+<td>:white_check_mark: Done</td>
+<td>9 agents, full spec coverage, verdict pipeline</td>
+</tr>
+<tr>
+<td><b>v1.1</b> More Agents</td>
+<td>:construction: Planned</td>
+<td>database-engineer, api-designer, refactoring-agent, and more</td>
+</tr>
+<tr>
+<td><b>v2.0</b> Agent Teams</td>
+<td>:construction: Planned</td>
+<td>Parallel agents with shared tasks and mailbox</td>
+</tr>
+<tr>
+<td><b>v2.2</b> Memory</td>
+<td>:construction: Planned</td>
+<td>MCP Memory Service, cross-session learning, auto-calibration</td>
+</tr>
+<tr>
+<td><b>v3.0</b> Plugin System</td>
+<td>:construction: Planned</td>
+<td>One-command install, agent marketplace</td>
+</tr>
+<tr>
+<td><b>v3.1</b> CI/CD</td>
+<td>:construction: Planned</td>
+<td>GitHub Actions, PR comment bot, status checks</td>
+</tr>
+</table>
+
+**[Full Roadmap →](ROADMAP.md)**
+
+---
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
